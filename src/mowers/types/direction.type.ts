@@ -1,0 +1,1 @@
+export type DirectionType = 'N' | 'E' | 'W' | 'S';

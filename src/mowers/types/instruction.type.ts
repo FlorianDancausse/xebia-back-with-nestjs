@@ -1,0 +1,1 @@
+export type InstructionType = 'A' | 'D' | 'G';
